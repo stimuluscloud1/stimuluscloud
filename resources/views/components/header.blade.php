@@ -14,21 +14,21 @@
 
 
 <!---Google Web Master --->
-<meta name="google-site-verification" content="yEEIl5-cYJhXHyx7o8kXmN4KujvzxEh6mihaHYNI2Ts" />
+{{-- <meta name="google-site-verification" content="yEEIl5-cYJhXHyx7o8kXmN4KujvzxEh6mihaHYNI2Ts" /> --}}
 
 <!-- Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-122348578-2"></script>
+{{-- <script async src="https://www.googletagmanager.com/gtag/js?id=UA-122348578-2"></script>
 
-<!---Schema MarkUp --->
+
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
   gtag('config', 'UA-122348578-2');
-</script>
+</script> --}}
 
-
+<!---Schema MarkUp --->
 <script type="application/ld+json"> 
   { 
       "@context" : "http://schema.org",
@@ -102,7 +102,7 @@
                 </li>
                 <li class="nav-item"> <a class="nav-link {{ (Request::segment(1) == 'about') ? 'active' : '' }}" href="{{ 'about' }}">About Us</a>
                 </li>
-                <li class="nav-item"> <a class="nav-link {{ (Request::segment(1) == 'services') ? 'active' : '' }}" href="{{ 'our-services' }}">Our Services</a>
+                <li class="nav-item"> <a class="nav-link {{ (Request::segment(1) == 'our-services') ? 'active' : '' }}" href="{{ 'our-services' }}">Our Services</a>
                 </li>
                 <li class="nav-item"> <a class="nav-link {{ (Request::segment(1) == 'our-portfolio') ? 'active' : '' }}" href="{{ 'our-portfolio' }}">Portfolio</a>
                 </li>

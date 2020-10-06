@@ -114,7 +114,7 @@ title="Stimuls Cloud | Delineate Your Imagination" : keywords="Stimulus Cloud" :
     <div class="row align-items-end">
       <div class="col-lg-4 col-md-6 mb-8 mb-lg-0 text-white">
         <div> <span class="badge badge-primary-soft p-2 font-w-6 text-white">
-                  Bootsland Services
+                  Our Services
               </span>
           <h2 class="mt-3 mb-0">One Platform, Deep Insight Why Choose Bootsland</h2>
         </div>
@@ -136,7 +136,7 @@ title="Stimuls Cloud | Delineate Your Imagination" : keywords="Stimulus Cloud" :
             <div class="mr-3">
               <img class="img-fluid" src="assets/images/icon/02.svg" alt="">
             </div>
-            <h5 class="m-0 text-light">Clean Code</h5>
+            <h5 class="m-0 text-light">Website Development</h5>
           </div>
           <p class="mb-0">Serspiciatis unde omnis iste natus laudantium, totam rem aperiam.</p>
         </div>
@@ -158,7 +158,7 @@ title="Stimuls Cloud | Delineate Your Imagination" : keywords="Stimulus Cloud" :
             <div class="mr-3">
               <img class="img-fluid" src="assets/images/icon/04.svg" alt="">
             </div>
-            <h5 class="m-0 text-light">Easy to customize</h5>
+            <h5 class="m-0 text-light">Cloud Support</h5>
           </div>
           <p class="mb-0">Serspiciatis unde omnis iste natus laudantium, totam rem aperiam.</p>
         </div>
@@ -167,9 +167,9 @@ title="Stimuls Cloud | Delineate Your Imagination" : keywords="Stimulus Cloud" :
         <div class="bg-primary-soft rounded p-5">
           <div class="d-flex align-items-center mb-4">
             <div class="mr-3">
-              <img class="img-fluid" src="assets/images/icon/05.svg" alt="">
+              <img class="img-fluid" src="assets/images/icon/api.png" alt="" style="width: 70px;">
             </div>
-            <h5 class="m-0 text-light">24/7 Support</h5>
+            <h5 class="m-0 text-light">API Integration</h5>
           </div>
           <p class="mb-0">Serspiciatis unde omnis iste natus laudantium, totam rem aperiam.</p>
         </div>

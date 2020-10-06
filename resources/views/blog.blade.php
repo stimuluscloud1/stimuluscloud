@@ -10,14 +10,12 @@ title="Stimuls Cloud | Delineate Your Imagination" : keywords="Stimulus Cloud" :
   <div class="container">
     <div class="row  text-center">
       <div class="col">
-        <h1>Blog Card Style</h1>
+        <h1>Blogs</h1>
         <nav aria-label="breadcrumb">
           <ol class="breadcrumb justify-content-center bg-transparent p-0 m-0">
-            <li class="breadcrumb-item"><a class="text-dark" href="#">Home</a>
+            <li class="breadcrumb-item"><a class="text-dark" href="{{ 'index' }}">Home</a>
             </li>
-            <li class="breadcrumb-item">Pages</li>
-            <li class="breadcrumb-item">Blog</li>
-            <li class="breadcrumb-item active text-primary" aria-current="page">Blog Card</li>
+            <li class="breadcrumb-item active text-primary" aria-current="page">Blogs</li>
           </ol>
         </nav>
       </div>

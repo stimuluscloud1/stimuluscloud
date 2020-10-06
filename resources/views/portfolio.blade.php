@@ -13,10 +13,8 @@ title="Stimuls Cloud | Delineate Your Imagination" : keywords="Stimulus Cloud" :
         <h1>Portfoilo</h1>
         <nav aria-label="breadcrumb">
           <ol class="breadcrumb justify-content-center bg-transparent p-0 m-0">
-            <li class="breadcrumb-item"><a class="text-dark" href="#">Home</a>
+            <li class="breadcrumb-item"><a class="text-dark" href="{{ 'index' }}">Home</a>
             </li>
-            <li class="breadcrumb-item">Pages</li>
-            <li class="breadcrumb-item">Portfoilo</li>
             <li class="breadcrumb-item active text-primary" aria-current="page">Portfoilo</li>
           </ol>
         </nav>
@@ -143,6 +141,28 @@ title="Stimuls Cloud | Delineate Your Imagination" : keywords="Stimulus Cloud" :
             </div>
           </div>
         </div>
+      </div>
+    </div>
+    <div class="row mt-11">
+      <div class="col-12">
+        <nav aria-label="...">
+          <ul class="pagination">
+            <li class="page-item mr-auto"> <a class="page-link" href="#">Previous</a>
+            </li>
+            <li class="page-item"><a class="page-link border-0 rounded text-dark" href="#">1</a>
+            </li>
+            <li class="page-item active" aria-current="page"> <a class="page-link border-0 rounded" href="#">2 <span class="sr-only">(current)</span></a>
+            </li>
+            <li class="page-item"><a class="page-link border-0 rounded text-dark" href="#">3</a>
+            </li>
+            <li class="page-item"><a class="page-link border-0 rounded text-dark" href="#">...</a>
+            </li>
+            <li class="page-item"><a class="page-link border-0 rounded text-dark" href="#">5</a>
+            </li>
+            <li class="page-item ml-auto"> <a class="page-link" href="#">Next</a>
+            </li>
+          </ul>
+        </nav>
       </div>
     </div>
   </div>

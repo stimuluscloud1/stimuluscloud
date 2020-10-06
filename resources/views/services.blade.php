@@ -54,8 +54,9 @@ title="Stimuls Cloud | Delineate Your Imagination" : keywords="Stimulus Cloud" :
     <div class="row align-items-center">
       <div class="col-xl-4 col-lg-4 mb-8 mb-lg-0">
         <div class="px-4 py-7 rounded bg-white shadow hover-translate">
-          <div>
-            <svg class="feather feather-layers bg-primary p-2 rounded" width="60" height="60" viewBox="0 0 24 24" fill="none" stroke="#ffffff" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"><polygon points="12 2 2 7 12 12 22 7 12 2"></polygon><polyline points="2 17 12 22 22 17"></polyline><polyline points="2 12 12 17 22 12"></polyline></svg>
+          
+          <div class="mb-3">
+            <img class="img-fluid rounded-top" src="assets/images/technology/google-code.png" alt="" style="width: 80px;">
           </div>
           <h5 class="mt-4 mb-3">Creative UI/UX</h5>
           <p>Serspiciatis unde omnis iste natus error sit doloremque laudantium, totam rem aperiam.</p>
@@ -64,10 +65,10 @@ title="Stimuls Cloud | Delineate Your Imagination" : keywords="Stimulus Cloud" :
       </div>
       <div class="col-xl-4 col-lg-4 col-sm-6">
         <div class="px-4 py-7 rounded text-center hover-translate">
-          <div>
-            <svg class="feather feather-move bg-primary p-2 rounded" width="60" height="60" viewBox="0 0 24 24" fill="none" stroke="#ffffff" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"><polyline points="5 9 2 12 5 15"></polyline><polyline points="9 5 12 2 15 5"></polyline><polyline points="15 19 12 22 9 19"></polyline><polyline points="19 9 22 12 19 15"></polyline><line x1="2" y1="12" x2="22" y2="12"></line><line x1="12" y1="2" x2="12" y2="22"></line></svg>
+          <div class="mr-3">
+            <img class="img-fluid" src="assets/images/icon/02.svg" alt="">
           </div>
-          <h5 class="mt-4 mb-3">Flexibility</h5>
+          <h5 class="mt-4 mb-3">Website Development</h5>
           <p>Serspiciatis unde omnis iste natus error sit doloremque laudantium, totam rem aperiam.</p>
           <a class="btn-link" href="#">Read Details</a>
         </div>
@@ -75,14 +76,56 @@ title="Stimuls Cloud | Delineate Your Imagination" : keywords="Stimulus Cloud" :
       <div class="col-xl-4 col-lg-4 col-sm-6 mt-6 mt-sm-0">
         <div class="px-4 py-7 rounded text-right bg-white shadow hover-translate">
           <div>
-          <svg class="feather feather-twitch bg-primary p-2 rounded" width="60" height="60" viewBox="0 0 24 24" fill="none" stroke="#ffffff" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"><path d="M21 2H3v16h5v4l4-4h5l4-4V2zm-10 9V7m5 4V7"></path></svg>
-          <h5 class="mt-4 mb-3">Easy Code</h5>
+            <div class="mr-3">
+              <img class="img-fluid" src="assets/images/icon/01.svg" alt="">
+            </div>
+          <h5 class="mt-4 mb-3">App Development</h5>
           <p>Serspiciatis unde omnis iste natus error sit doloremque laudantium, totam rem aperiam.</p>
           <a class="btn-link" href="#">Read Details</a>
         </div>
       </div>
     </div>
+    
   </div>
+</div>
+<br>
+
+<div class="container">
+  <div class="row align-items-center">
+    <div class="col-xl-4 col-lg-4 mb-8 mb-lg-0">
+      <div class="px-4 py-7 rounded bg-white shadow hover-translate">
+        <div class="mr-3">
+          <img class="img-fluid" src="assets/images/icon/03.svg" alt="">
+        </div>
+        <h5 class="mt-4 mb-3">Software Development</h5>
+        <p>Serspiciatis unde omnis iste natus error sit doloremque laudantium, totam rem aperiam.</p>
+        <a class="btn-link" href="#">Read Details</a>
+      </div>
+    </div>
+    <div class="col-xl-4 col-lg-4 col-sm-6">
+      <div class="px-4 py-7 rounded text-center hover-translate">
+        <div class="mr-3">
+          <img class="img-fluid" src="assets/images/icon/04.svg" alt="">
+        </div>
+        <h5 class="mt-4 mb-3">Cloud Support</h5>
+        <p>Serspiciatis unde omnis iste natus error sit doloremque laudantium, totam rem aperiam.</p>
+        <a class="btn-link" href="#">Read Details</a>
+      </div>
+    </div>
+    <div class="col-xl-4 col-lg-4 col-sm-6 mt-6 mt-sm-0">
+      <div class="px-4 py-7 rounded text-right bg-white shadow hover-translate">
+        <div>
+          <div class="mr-3">
+            <img class="img-fluid" src="assets/images/icon/api.png" alt="" style="width: 70px;">
+          </div>
+        <h5 class="mt-4 mb-3">API Integration</h5>
+        <p>Serspiciatis unde omnis iste natus error sit doloremque laudantium, totam rem aperiam.</p>
+        <a class="btn-link" href="#">Read Details</a>
+      </div>
+    </div>
+  </div>
+  
+</div>
 </div>
 </section>
 
