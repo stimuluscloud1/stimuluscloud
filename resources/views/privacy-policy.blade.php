@@ -14,10 +14,8 @@ title="Stimuls Cloud | Delineate Your Imagination" : keywords="Stimulus Cloud" :
         <h1>Privacy & Policy</h1>
         <nav aria-label="breadcrumb">
           <ol class="breadcrumb justify-content-center bg-transparent p-0 m-0">
-            <li class="breadcrumb-item"><a class="text-dark" href="#">Home</a>
+            <li class="breadcrumb-item"><a class="text-dark" href="{{ 'index' }}">Home</a>
             </li>
-            <li class="breadcrumb-item">Pages</li>
-            <li class="breadcrumb-item">Utilities</li>
             <li class="breadcrumb-item active text-primary" aria-current="page">Privacy & Policy</li>
           </ol>
         </nav>

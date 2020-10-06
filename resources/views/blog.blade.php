@@ -45,7 +45,7 @@ title="Stimuls Cloud | Delineate Your Imagination" : keywords="Stimulus Cloud" :
           <img class="card-img-top shadow rounded" src="assets/images/blog/01.png" alt="Image">
           <div class="card-body pt-5"> <a class="d-inline-block text-muted mb-2" href="#">Sass</a>
             <h2 class="h5 font-weight-medium">
-                <a class="link-title" href="blog-single.html">Bootsland Perfect Performance landing Page</a>
+                <a class="link-title" href="#">Bootsland Perfect Performance landing Page</a>
               </h2>
             <p>Businesses need access to development resources serspiciatis unde omnis iste natus error.</p>
           </div>
@@ -71,7 +71,7 @@ title="Stimuls Cloud | Delineate Your Imagination" : keywords="Stimulus Cloud" :
           <img class="card-img-top shadow rounded" src="assets/images/blog/02.png" alt="Image">
           <div class="card-body pt-5"> <a class="d-inline-block text-muted mb-2" href="#">Marketing</a>
             <h2 class="h5 font-weight-medium">
-                <a class="link-title" href="blog-single.html">The most powerfull template that make you.</a>
+                <a class="link-title" href="#">The most powerfull template that make you.</a>
               </h2>
             <p>Businesses need access to development resources serspiciatis unde omnis iste natus error.</p>
           </div>
@@ -97,7 +97,7 @@ title="Stimuls Cloud | Delineate Your Imagination" : keywords="Stimulus Cloud" :
           <img class="card-img-top shadow rounded" src="assets/images/blog/03.png" alt="Image">
           <div class="card-body pt-5"> <a class="d-inline-block text-muted mb-2" href="#">Landing</a>
             <h2 class="h5 font-weight-medium">
-                <a class="link-title" href="blog-single.html">A brand for a company is like a reputation person.</a>
+                <a class="link-title" href="#">A brand for a company is like a reputation person.</a>
               </h2>
             <p>Businesses need access to development resources serspiciatis unde omnis iste natus error.</p>
           </div>
@@ -126,7 +126,7 @@ title="Stimuls Cloud | Delineate Your Imagination" : keywords="Stimulus Cloud" :
           <img class="card-img-top shadow rounded" src="assets/images/blog/01.png" alt="Image">
           <div class="card-body pt-5"> <a class="d-inline-block text-muted mb-2" href="#">Sass</a>
             <h2 class="h5 font-weight-medium">
-                <a class="link-title" href="blog-single.html">Bootsland Perfect Performance landing Page</a>
+                <a class="link-title" href="#">Bootsland Perfect Performance landing Page</a>
               </h2>
             <p>Businesses need access to development resources serspiciatis unde omnis iste natus error.</p>
           </div>
@@ -152,7 +152,7 @@ title="Stimuls Cloud | Delineate Your Imagination" : keywords="Stimulus Cloud" :
           <img class="card-img-top shadow rounded" src="assets/images/blog/02.png" alt="Image">
           <div class="card-body pt-5"> <a class="d-inline-block text-muted mb-2" href="#">Marketing</a>
             <h2 class="h5 font-weight-medium">
-                <a class="link-title" href="blog-single.html">The most powerfull template that make you.</a>
+                <a class="link-title" href="#">The most powerfull template that make you.</a>
               </h2>
             <p>Businesses need access to development resources serspiciatis unde omnis iste natus error.</p>
           </div>

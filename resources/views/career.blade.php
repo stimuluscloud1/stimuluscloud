@@ -132,7 +132,7 @@ title="Stimuls Cloud | Delineate Your Imagination" : keywords="Stimulus Cloud" :
                   </svg>
                 </div>
                 <p class="mb-0 ml-3">I will give you a complete account the teachings</p>
-              </div> <a class="btn btn-primary mt-5" href="career-single.html">Apply Now</a>
+              </div> <a class="btn btn-primary mt-5" href="#">Apply Now</a>
             </div>
             <div role="tabpanel" class="tab-pane fade" id="tab1-2">
               <h5>Job Descriptions:</h5>
@@ -169,7 +169,7 @@ title="Stimuls Cloud | Delineate Your Imagination" : keywords="Stimulus Cloud" :
                   </svg>
                 </div>
                 <p class="mb-0 ml-3">I will give you a complete account the teachings</p>
-              </div> <a class="btn btn-primary mt-5" href="career-single.html">Apply Now</a>
+              </div> <a class="btn btn-primary mt-5" href="#">Apply Now</a>
             </div>
             <div role="tabpanel" class="tab-pane fade" id="tab1-3">
               <h5>Job Descriptions:</h5>
@@ -206,7 +206,7 @@ title="Stimuls Cloud | Delineate Your Imagination" : keywords="Stimulus Cloud" :
                   </svg>
                 </div>
                 <p class="mb-0 ml-3">I will give you a complete account the teachings</p>
-              </div> <a class="btn btn-primary mt-5" href="career-single.html">Apply Now</a>
+              </div> <a class="btn btn-primary mt-5" href="#">Apply Now</a>
             </div>
             <div role="tabpanel" class="tab-pane fade" id="tab1-4">
               <h5>Job Descriptions:</h5>
@@ -243,7 +243,7 @@ title="Stimuls Cloud | Delineate Your Imagination" : keywords="Stimulus Cloud" :
                   </svg>
                 </div>
                 <p class="mb-0 ml-3">I will give you a complete account the teachings</p>
-              </div> <a class="btn btn-primary mt-5" href="career-single.html">Apply Now</a>
+              </div> <a class="btn btn-primary mt-5" href="#">Apply Now</a>
             </div>
           </div>
         </div>

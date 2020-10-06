@@ -275,7 +275,7 @@ title="Stimuls Cloud | Delineate Your Imagination" : keywords="Stimulus Cloud" :
       <div class="col-12 col-lg-6 col-xl-5">
         <div class="shadow rounded p-5">
           <img class="img-fluid mb-8" src="assets/images/about/04.png" alt="Image">
-          <form class="row" id="contact-form" method="post" action="http://themeht.com/bootsland/html/php/contact.php">
+          <form class="row" id="contact-form" method="post" action="">
             <div class="messages"></div>
             <div class="form-group col-sm-6">
               <label class="text-muted" for="InputName1">First Name</label>

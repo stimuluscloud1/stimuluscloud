@@ -620,7 +620,7 @@ title="Stimuls Cloud | Delineate Your Imagination" : keywords="Stimulus Cloud" :
                Bootsland Perfect Performance landing Page
               </h2>
                 <p>Businesses need access to development resources serspiciatis.</p>
-                <a class="btn-link" href="blog-single.html">Read More</a>
+                <a class="btn-link" href="#">Read More</a>
               </div>
             </div>
           </div>
@@ -642,7 +642,7 @@ title="Stimuls Cloud | Delineate Your Imagination" : keywords="Stimulus Cloud" :
                The most powerfull template that make you.
               </h2>
                 <p>Businesses need access to development resources serspiciatis.</p>
-                <a class="btn-link" href="blog-single.html">Read More</a>
+                <a class="btn-link" href="#">Read More</a>
               </div>
             </div>
           </div>

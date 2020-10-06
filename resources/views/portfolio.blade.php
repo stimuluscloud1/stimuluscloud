@@ -73,7 +73,7 @@ title="Stimuls Cloud | Delineate Your Imagination" : keywords="Stimulus Cloud" :
               <img class="img-center w-100" src="assets/images/portfolio/01.jpg" alt="">
               <div class="portfolio-title d-flex justify-content-between align-items-center">
                 <div> <small class="text-light mb-2">Branding</small>
-                  <h6><a class="btn-link text-white" href="portfolio-single.html">Web Development</a></h6>
+                  <h6><a class="btn-link text-white" href="#">Web Development</a></h6>
                 </div>
                 <a class="popup-img h2 text-white" href="assets/images/portfolio/large/01.jpg"> <i class="la la-plus"></i>
                 </a>
@@ -85,7 +85,7 @@ title="Stimuls Cloud | Delineate Your Imagination" : keywords="Stimulus Cloud" :
               <img class="img-center w-100" src="assets/images/portfolio/02.jpg" alt="">
               <div class="portfolio-title d-flex justify-content-between align-items-center">
                 <div> <small class="text-light mb-2">Branding</small>
-                  <h6><a class="btn-link text-white" href="portfolio-single.html">Web Development</a></h6>
+                  <h6><a class="btn-link text-white" href="#">Web Development</a></h6>
                 </div>
                 <a class="popup-img h2 text-white" href="assets/images/portfolio/large/02.jpg"> <i class="la la-plus"></i>
                 </a>
@@ -97,7 +97,7 @@ title="Stimuls Cloud | Delineate Your Imagination" : keywords="Stimulus Cloud" :
               <img class="img-center w-100" src="assets/images/portfolio/03.jpg" alt="">
               <div class="portfolio-title d-flex justify-content-between align-items-center">
                 <div> <small class="text-light mb-2">Branding</small>
-                  <h6><a class="btn-link text-white" href="portfolio-single.html">Web Development</a></h6>
+                  <h6><a class="btn-link text-white" href="#">Web Development</a></h6>
                 </div>
                 <a class="popup-img h2 text-white" href="assets/images/portfolio/large/03.jpg"> <i class="la la-plus"></i>
                 </a>
@@ -109,7 +109,7 @@ title="Stimuls Cloud | Delineate Your Imagination" : keywords="Stimulus Cloud" :
               <img class="img-center w-100" src="assets/images/portfolio/04.jpg" alt="">
               <div class="portfolio-title d-flex justify-content-between align-items-center">
                 <div> <small class="text-light mb-2">Branding</small>
-                  <h6><a class="btn-link text-white" href="portfolio-single.html">Web Development</a></h6>
+                  <h6><a class="btn-link text-white" href="#">Web Development</a></h6>
                 </div>
                 <a class="popup-img h2 text-white" href="assets/images/portfolio/large/04.jpg"> <i class="la la-plus"></i>
                 </a>
@@ -121,7 +121,7 @@ title="Stimuls Cloud | Delineate Your Imagination" : keywords="Stimulus Cloud" :
               <img class="img-center w-100" src="assets/images/portfolio/05.jpg" alt="">
               <div class="portfolio-title d-flex justify-content-between align-items-center">
                 <div> <small class="text-light mb-2">Branding</small>
-                  <h6><a class="btn-link text-white" href="portfolio-single.html">Web Development</a></h6>
+                  <h6><a class="btn-link text-white" href="#">Web Development</a></h6>
                 </div>
                 <a class="popup-img h2 text-white" href="assets/images/portfolio/large/05.jpg"> <i class="la la-plus"></i>
                 </a>
@@ -133,7 +133,7 @@ title="Stimuls Cloud | Delineate Your Imagination" : keywords="Stimulus Cloud" :
               <img class="img-center w-100" src="assets/images/portfolio/06.jpg" alt="">
               <div class="portfolio-title d-flex justify-content-between align-items-center">
                 <div> <small class="text-light mb-2">Branding</small>
-                  <h6><a class="btn-link text-white" href="portfolio-single.html">Web Development</a></h6>
+                  <h6><a class="btn-link text-white" href="#">Web Development</a></h6>
                 </div>
                 <a class="popup-img h2 text-white" href="assets/images/portfolio/large/06.jpg"> <i class="la la-plus"></i>
                 </a>

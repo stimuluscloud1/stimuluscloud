@@ -75,7 +75,7 @@ title="Contact Us | Stimulus Cloud" : keywords="Stimulus Cloud" : description="S
     </div>
     <div class="row justify-content-center text-center">
       <div class="col-12 col-lg-10">
-          <form id="contact-form" class="row" method="post" action="http://themeht.com/bootsland/html/php/contact.php">
+          <form id="contact-form" class="row" method="post" action="#">
             <div class="messages"></div>
             <div class="form-group col-md-6">
               <input id="form_name" type="text" name="name" class="form-control" placeholder="First Name" required="required" data-error="Name is required.">
