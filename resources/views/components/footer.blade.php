@@ -57,7 +57,7 @@
                 </li>
                 <li class="mb-3 nav-item"><a class="nav-link" href="#">Support</a>
                 </li>
-                <li class="mb-3 nav-item"><a class="nav-link" href="{{ 'contact-us' }}">Sign-in</a>
+                <li class="mb-3 nav-item"><a class="nav-link" href="{{ 'login' }}">Sign-in</a>
                 </li>
               </ul>
             </div>
