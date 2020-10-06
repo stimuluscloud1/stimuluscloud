@@ -16,8 +16,6 @@ title="Stimuls Cloud | Delineate Your Imagination" : keywords="Stimulus Cloud" :
           <ol class="breadcrumb justify-content-center bg-transparent p-0 m-0">
             <li class="breadcrumb-item"><a class="text-dark" href="#">Home</a>
             </li>
-            <li class="breadcrumb-item">Pages</li>
-            <li class="breadcrumb-item">Company</li>
             <li class="breadcrumb-item active text-primary" aria-current="page">About Us</li>
           </ol>
         </nav>
