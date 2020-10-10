@@ -25,3 +25,7 @@ Route::view('privacy-policy', 'privacy-policy');
 Route::view('career', 'career');
 Route::view('contact-us', 'contact');
 Route::view('login', 'login');
+
+Route::view('admin/index', 'admin.index');
+Route::view('admin/blog-add', 'admin.blog-add');
+Route::view('admin/blog-list', 'admin.blog-list');
