@@ -55,12 +55,12 @@
 </script>
 
 <!-- Favicon Icon -->
-<link rel="shortcut icon" href="assets/images/favicon.ico" />
+<link rel="shortcut icon" href="{{ URL::asset('assets/images/favicon.ico') }}" />
 
 <!-- inject css start -->
 
-<link href="assets/css/theme-plugin.css" rel="stylesheet" />
-<link href="assets/css/theme.min.css" rel="stylesheet" />
+<link href="{{ URL::asset('assets/css/theme-plugin.css') }}" rel="stylesheet" />
+<link href="{{ URL::asset('assets/css/theme.min.css') }}" rel="stylesheet" />
 
 <!-- inject css end -->
 
@@ -91,24 +91,24 @@
         <!--menu start-->
         <div class="col d-flex align-items-center justify-content-between">
           {{-- <a class="navbar-brand logo text-dark h2 mb-0" href="{{ 'index' }}"> --}}
-              <img src="assets/images/hero/stimuluscloud.in_black.png" style="width: 15% !important" alt="Stimulus Cloud">
+              <img src="{{ URL::asset('assets/images/hero/stimuluscloud.in_black.png') }}" style="width: 15% !important" alt="Stimulus Cloud">
             {{-- </a> --}}
           <nav class="navbar navbar-expand-lg navbar-light ml-auto mr-auto">            
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-expanded="false" aria-label="Toggle navigation"> <span class="navbar-toggler-icon"></span>
             </button>
             <div class="collapse navbar-collapse" id="navbarNav">
               <ul class="navbar-nav">
-                <li class="nav-item"> <a class="nav-link {{ (Request::segment(1) == '') || (Request::segment(1) == 'index') ? 'active' : '' }}" href="{{ 'index' }}">Home</a>
+                <li class="nav-item"> <a class="nav-link {{ (Request::segment(1) == '') || (Request::segment(1) == 'index') ? 'active' : '' }}" href="{{ url('index') }}">Home</a>
                 </li>
-                <li class="nav-item"> <a class="nav-link {{ (Request::segment(1) == 'about') ? 'active' : '' }}" href="{{ 'about' }}">About Us</a>
+                <li class="nav-item"> <a class="nav-link {{ (Request::segment(1) == 'about') ? 'active' : '' }}" href="{{ url('about') }}">About Us</a>
                 </li>
-                <li class="nav-item"> <a class="nav-link {{ (Request::segment(1) == 'our-services') ? 'active' : '' }}" href="{{ 'our-services' }}">Our Services</a>
+                <li class="nav-item"> <a class="nav-link {{ (Request::segment(1) == 'our-services') ? 'active' : '' }}" href="{{ url('our-services') }}">Our Services</a>
                 </li>
-                <li class="nav-item"> <a class="nav-link {{ (Request::segment(1) == 'our-portfolio') ? 'active' : '' }}" href="{{ 'our-portfolio' }}">Portfolio</a>
+                <li class="nav-item"> <a class="nav-link {{ (Request::segment(1) == 'our-portfolio') ? 'active' : '' }}" href="{{ url('our-portfolio') }}">Portfolio</a>
                 </li>
-                <li class="nav-item"> <a class="nav-link {{ (Request::segment(1) == 'blog') ? 'active' : '' }}" href="{{ 'blog' }}">Blogs</a>
+                <li class="nav-item"> <a class="nav-link {{ (Request::segment(1) == 'blog') ? 'active' : '' }}" href="{{ url('blog') }}">Blogs</a>
                 </li>
-                <li class="nav-item"> <a class="nav-link {{ (Request::segment(1) == 'contact-us') ? 'active' : '' }}" href="{{ 'contact-us' }}">Contact Us</a>
+                <li class="nav-item"> <a class="nav-link {{ (Request::segment(1) == 'contact-us') ? 'active' : '' }}" href="{{ url('contact-us') }}">Contact Us</a>
                 </li>
               </ul>
             </div>

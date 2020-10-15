@@ -10,24 +10,27 @@
 <meta name="author" content="ThemeMakker, design by: ThemeMakker.com">
 
 <link rel="icon" href="favicon.ico" type="image/x-icon">
+
+
 <!-- VENDOR CSS -->
-<link rel="stylesheet" href="../assets/admin/vendor/bootstrap/css/bootstrap.min.css">
-<link rel="stylesheet" href="../assets/admin/vendor/animate-css/animate.min.css">
-<link rel="stylesheet" href="../assets/admin/vendor/font-awesome/css/font-awesome.min.css">
-<link rel="stylesheet" href="../assets/admin/vendor/jvectormap/jquery-jvectormap-2.0.3.min.css"/>
-<link rel="stylesheet" href="../assets/admin/vendor/morrisjs/morris.css" />
-<link rel="stylesheet" href="../assets/admin/vendor/summernote/dist/summernote.css"/>
+<link rel="stylesheet" href="{{ URL::asset('../assets/admin/vendor/bootstrap/css/bootstrap.min.css') }}">
+<link rel="stylesheet" href="{{ URL::asset('../assets/admin/vendor/animate-css/animate.min.css') }}">
+<link rel="stylesheet" href="{{ URL::asset('../assets/admin/vendor/font-awesome/css/font-awesome.min.css') }}">
+<link rel="stylesheet" href="{{ URL::asset('../assets/admin/vendor/jvectormap/jquery-jvectormap-2.0.3.min.css') }}"/>
+<link rel="stylesheet" href="{{ URL::asset('../assets/admin/vendor/morrisjs/morris.css') }}" />
+<link rel="stylesheet" href="{{ URL::asset('../assets/admin/vendor/summernote/dist/summernote.css') }}"/>
 
 <!-- MAIN CSS -->
-<link rel="stylesheet" href="../assets/admin/css/main.css">
-<link rel="stylesheet" href="../assets/admin/css/color_skins.css">
+<link rel="stylesheet" href="{{ URL::asset('../assets/admin/css/main.css') }}">
+<link rel="stylesheet" href="{{ URL::asset('../assets/css/blog.css') }}">
+<link rel="stylesheet" href="{{ URL::asset('../assets/admin/css/color_skins.css') }}">
 </head>
 <body class="theme-blue">
 
 <!-- Page Loader -->
 <div class="page-loader-wrapper">
     <div class="loader">
-        <div class="m-t-30"><img src="../assets/admin/images/thumbnail.png" width="48" height="48" alt="Mplify"></div>
+        <div class="m-t-30"><img src="{{ URL::asset('../assets/admin/images/thumbnail.png') }}" width="48" height="48" alt="Mplify"></div>
         <p>Please wait...</p>
     </div>
 </div>
@@ -41,7 +44,7 @@
 
             <div class="navbar-brand">
                 <a href="index.html">
-                    <img src="../assets/admin/images/logo-icon.svg" alt="Mplify Logo" class="img-responsive logo">
+                    <img src="{{ URL::asset('../assets/admin/images/logo-icon.svg') }}" alt="Mplify Logo" class="img-responsive logo">
                     <span class="name">mplify</span>
                 </a>
             </div>
@@ -104,9 +107,9 @@
                     <li class="active">
                         <a href="#Blog" class="has-arrow"><i class="icon-globe"></i><span>Blog</span></a>
                         <ul>
-                            <li><a href="{{ 'index' }}">Dashboard</a></li>
-                            <li><a href="{{ 'blog-add' }}">New Post</a></li>
-                            <li><a href="{{ 'blog-list' }}">Blog List</a></li>
+                            <li><a href="{{ url('admin/index') }}">Dashboard</a></li>
+                            <li><a href="{{ url('admin/blog-add') }}">New Post</a></li>
+                            <li><a href="{{ url('admin/blog-list') }}">Blog List</a></li>
                         </ul>
                     </li>
                 </ul>

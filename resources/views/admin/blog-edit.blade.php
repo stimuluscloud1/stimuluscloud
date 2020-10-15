@@ -20,11 +20,11 @@
             <div class="row clearfix">
                 <div class="col-lg-12">
                     <div class="card">
-                        {!! Form::open(['action' => 'App\Http\Controllers\PostController@store', 'method' =>'POST']) !!}
+                        {!! Form::open(['action' => ['App\Http\Controllers\PostController@update', $post->id],'method' =>'POST']) !!}
                         
                         <div class="body">
                             <div class="form-group">
-                                <input type="text" class="form-control" placeholder="Enter Blog title" name="title" required/>
+                                <input type="text" class="form-control" placeholder="Enter Blog title" name="title" value="{!! $post->title !!}" required/>
                             </div>
                             <select class="form-control show-tick" name="category" required>
                                 <option>Select Category</option>
@@ -36,9 +36,9 @@
                             </select>
                             <div class="form-group m-t-20 m-b-20">
                                 <input type="file" class="form-control-file" id="exampleInputFile" aria-describedby="fileHelp" name="image" required>
-                          
+{{ Form::hidden('_method', 'PUT') }}
                             </div>
-<textarea name="description" id="summernote" cols="30" rows="10" class="form-control"></textarea>
+<textarea name="description" id="summernote" cols="30" rows="10" class="form-control">{!! $post->description !!}</textarea>
                             <input type="submit" class="btn btn-block btn-primary   m-t-20" value="Submit">
                         </div>
                         {!! Form::close() !!}

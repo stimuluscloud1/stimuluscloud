@@ -19,42 +19,42 @@ title="Stimuls Cloud | Delineate Your Imagination" : keywords="Stimulus Cloud" :
           <div class="item">
             <!-- Heading -->
             <h1 class="display-4 font-w-6">
-              Truly <span class="text-primary">Flexible and Creative</span> Landing Page              
+              Truly <span class="text-primary">Flexible and Creative</span> Web Apps              
             </h1>
             <!-- Text -->
-            <p class="lead text-muted">Build a Beautiful, Clean & Modern Design website with flexible Bootstrap components.</p>
+            <p class="lead text-muted">Website Designing a delightful interface should go beyond skin deep.</p>
             <!-- Buttons --> <a href="{{ 'contact-us' }}" class="btn btn-primary shadow mr-1">
                 Contact Us
               </a>
-            <a href="#" class="btn btn-outline-primary">
+            <a href="{{ 'contact-form' }}" class="btn btn-outline-primary">
                 Get Started
               </a>
           </div>
           <div class="item">
             <!-- Heading -->
             <h1 class="display-4 font-w-6">
-              Incredible <span class="text-primary">Business Feature</span> With Bootsland              
+              Incredible <span class="text-primary">Business Feature</span> With Stimulus              
             </h1>
             <!-- Text -->
-            <p class="lead text-muted">Build a Beautiful, Clean & Modern Design website with flexible Bootstrap components.</p>
+            <p class="lead text-muted">Build a Beautiful, Clean & Modern Design website with us.</p>
             <!-- Buttons --> <a href="{{ 'contact-us' }}" class="btn btn-primary shadow mr-1">
                 Contact Us
               </a>
-            <a href="#" class="btn btn-outline-primary">
+            <a href="{{ 'contact-form' }}" class="btn btn-outline-primary">
                 Get Started
               </a>
           </div>
           <div class="item">
             <!-- Heading -->
             <h1 class="display-4 font-w-6">
-              Bootsland Built With Static <span class="text-primary">Bootstrap Code</span>              
+              We build <span class="text-primary">Fast and Secure</span> Software              
             </h1>
             <!-- Text -->
-            <p class="lead text-muted">Build a Beautiful, Clean & Modern Design website with flexible Bootstrap components.</p>
+            <p class="lead text-muted">We are dedicated to provide the best software to small and medium businesses.</p>
             <!-- Buttons --> <a href="{{ 'contact-us' }}" class="btn btn-primary shadow mr-1">
                 Contact Us
               </a>
-            <a href="#" class="btn btn-outline-primary">
+            <a href="{{ 'contact-form' }}" class="btn btn-outline-primary">
                 Get Started
               </a>
           </div>
@@ -92,12 +92,12 @@ title="Stimuls Cloud | Delineate Your Imagination" : keywords="Stimulus Cloud" :
       </div>
       <div class="col-12 col-lg-6 col-xl-5">
         <div> <span class="badge badge-primary-soft p-2 font-w-6">
-                  About Bootsland
+                  About Stimulus
               </span>
-          <h2 class="mt-3 font-w-5">Bootsland Crafting Beautiful Experience</h2>
-          <p class="lead">We use the latest technologies it voluptatem accusantium doloremque laudantium, totam rem aperiam.</p>
-          <p class="mb-0">We use the latest technologies it voluptatem accusantium doloremque laudantium, totam rem aperiam.</p>
-        </div> <a href="#" class="btn btn-outline-primary mt-5">
+          <h2 class="mt-3 font-w-5">Stimulus Crafting Beautiful Experience</h2>
+          <p class="lead">We aim to deliver faultless and easy-to-use technology solutions backed up with 24/7 support system.</p>
+          <p class="mb-0">We use the latest technologies and support our clients to promote their business online.</p>
+        </div> <a href="{{ 'about' }}" class="btn btn-outline-primary mt-5">
                 Learn More
               </a>
       </div>
@@ -116,7 +116,7 @@ title="Stimuls Cloud | Delineate Your Imagination" : keywords="Stimulus Cloud" :
         <div> <span class="badge badge-primary-soft p-2 font-w-6 text-white">
                   Our Services
               </span>
-          <h2 class="mt-3 mb-0">One Platform, Deep Insight Why Choose Bootsland</h2>
+          <h2 class="mt-3 mb-0">One Platform, Deep Insight Why Choose Stimulus Cloud</h2>
         </div>
       </div>
       <div class="col-lg-4 col-md-6">
@@ -127,7 +127,7 @@ title="Stimuls Cloud | Delineate Your Imagination" : keywords="Stimulus Cloud" :
             </div>
             <h5 class="m-0 text-light">App Development</h5>
           </div>
-          <p class="mb-0">Serspiciatis unde omnis iste natus laudantium, totam rem aperiam.</p>
+          <p class="mb-0">Targeted towards a fast and efficient product.</p>
         </div>
       </div>
       <div class="col-lg-4 col-md-6 mt-6 mt-md-0">
@@ -138,7 +138,7 @@ title="Stimuls Cloud | Delineate Your Imagination" : keywords="Stimulus Cloud" :
             </div>
             <h5 class="m-0 text-light">Website Development</h5>
           </div>
-          <p class="mb-0">Serspiciatis unde omnis iste natus laudantium, totam rem aperiam.</p>
+          <p class="mb-0">Work on every single functionality of dynamic web development.</p>
         </div>
       </div>
       <div class="col-lg-4 col-md-6 mt-6">
@@ -149,7 +149,7 @@ title="Stimuls Cloud | Delineate Your Imagination" : keywords="Stimulus Cloud" :
             </div>
             <h5 class="m-0 text-light">Software Development</h5>
           </div>
-          <p class="mb-0">Serspiciatis unde omnis iste natus laudantium, totam rem aperiam.</p>
+          <p class="mb-0">Specialized in development and distribution of software application.</p>
         </div>
       </div>
       <div class="col-lg-4 col-md-6 mt-6">
@@ -160,7 +160,7 @@ title="Stimuls Cloud | Delineate Your Imagination" : keywords="Stimulus Cloud" :
             </div>
             <h5 class="m-0 text-light">Cloud Support</h5>
           </div>
-          <p class="mb-0">Serspiciatis unde omnis iste natus laudantium, totam rem aperiam.</p>
+          <p class="mb-0">Providing cloud supports in AWS, Google Cloud and Digital Ocean.</p>
         </div>
       </div>
       <div class="col-lg-4 col-md-6 mt-6">
@@ -197,7 +197,7 @@ title="Stimuls Cloud | Delineate Your Imagination" : keywords="Stimulus Cloud" :
     <div class="row justify-content-center text-center">
       <div class="col-12 col-md-12 col-lg-8 mb-8 mb-lg-0">
         <div class="mb-8"> <span class="badge badge-primary-soft p-2 font-w-6">
-                  Bootsland Team
+                  Our Technologies
               </span>
           <h2 class="mt-3 font-w-5">Technology We Use</h2>
           <p class="lead mb-0">All types of businesses need access to development resources, so we give you the option to decide how much you need to use.</p>
@@ -403,7 +403,7 @@ title="Stimuls Cloud | Delineate Your Imagination" : keywords="Stimulus Cloud" :
     <div class="row justify-content-center text-center">
       <div class="col-12 col-md-12 col-lg-8 mb-8 mb-lg-0">
         <div class="mb-8"> <span class="badge badge-primary-soft p-2 font-w-6">
-                  Bootsland Team
+                  Our Team
               </span>
           <h2 class="mt-3 font-w-5">Meet Our Team Of Expert</h2>
           <p class="lead mb-0">All types of businesses need access to development resources, so we give you the option to decide how much you need to use.</p>

@@ -105,8 +105,8 @@
   
   <!-- inject js start -->
   
-  <script src="{{ url('assets/js/theme-plugin.js') }}"></script>
-  <script src="{{ url('assets/js/theme-script.js') }}"></script>
+  <script src="{{ URL::asset('assets/js/theme-plugin.js') }}"></script>
+  <script src="{{ URL::asset('assets/js/theme-script.js') }}"></script>
   
   <!-- inject js end -->
   
